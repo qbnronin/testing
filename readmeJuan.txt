@@ -1,3 +1,3 @@
 hello Juan
-This is a new line
 and another
+deleted one line and inserted another.
