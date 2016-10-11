@@ -1,1 +1,2 @@
 this is second file
+Another line for second file
