@@ -1,2 +1,3 @@
 this is third file.
 Added in remote
+New line from local rep
